@@ -1,5 +1,5 @@
 ---
-name: faithful-summary
+name: summary
 description: Summarize long documents with zero fabrication and full numeric fidelity, using an evidence-ledger workflow where every claim is anchored to the source, and then answer the user's follow-up questions about the document from the same evidence. Use this skill whenever the user asks for a summary, digest, brief, recap, TL;DR, key points, executive summary, "what's important here", "break down this report/contract/filing/paper/transcript", or hands over a long document and asks what it says — and for every follow-up question about that document afterwards ("а какой там штраф?", "кто отвечает за приёмку?", "что сказано про сроки?"). Use it especially when the document is long (financial report, contract, tender, research paper, deposition, meeting transcript, email thread, policy document) or when accuracy of figures, dates, amounts, obligations, and exact wording matters. Apply it even when the user never says the word "skill" and simply drops a file with "what's in this".
 ---
 
