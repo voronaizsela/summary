@@ -44,7 +44,7 @@ The user gets a summary — something that replaces reading the document for mos
 ### Shape of the delivered output
 
 1. **Main body — a brief summary in prose.** What the document is, who the parties are, what it establishes or reports, and the handful of things that actually matter — the load-bearing figures, the decisive obligations, the material risk or caveat, a contradiction if there is one. Connected paragraphs, no headings, no lists, no anchors, no service markers.
-2. **Below it — the structured apparatus.** Compact sections and tables, per document type: key figures, obligations and deadlines, dates, caveats, discrepancies, what the document does not state. Skimmable, one line per item. Formats are in `references/output-templates.md`; every heading and label is written in the output language.
+2. **Below it — the structured apparatus.** Compact sections and tables, per document type: key figures, obligations and deadlines, dates, caveats. Skimmable, one line per item. Formats are in `references/output-templates.md`; every heading and label is written in the output language.
 
 The apparatus is the detail, not the document. A table of the twelve figures that matter, not of every figure in the report. A section exists only if the document has material content for it; empty and near-empty sections are deleted, not filled.
 
@@ -119,7 +119,6 @@ First **sort the ledger by materiality**, not by segment: which rows are decisio
 - One theme per paragraph, ordered by the document's own weight. What the document leads with, you lead with.
 - No headings, no bullets, no numbering, no anchors, no internal markers inside this part.
 - Connect with the ordinary connective tissue of the output language ("при этом", "отдельно оговорено"), never with connectives that assert a relationship the document does not assert.
-- Gaps, conditions and contradictions are stated in words, inside the flow: "документ не указывает, как рассчитывается этот показатель"; "в одном месте указано 1 284,6 млн, в другом — 1 280,0 млн, расхождение не пояснено".
 - Close on the last substantive fact. No summing-up sentence, no assessment, no "таким образом, документ демонстрирует".
 
 **The apparatus:**
