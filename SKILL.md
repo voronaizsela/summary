@@ -1,5 +1,5 @@
 ---
-name: faithful-summary
+name: summary
 description: Summarize documents accurately and readably — key facts kept, nothing invented, figures in a table, useful derived metrics calculated and marked as calculated. Use this skill whenever the user asks for a summary, digest, brief, recap, TL;DR, key points, executive summary, "what's important here", "break down this report/contract/filing/paper", or simply hands over a document and asks what it says. Use it especially for financial statements, contracts, tenders, research papers, transcripts and long reports, and whenever accuracy of figures, dates, amounts and obligations matters. Apply it even when the user never says the word "skill".
 ---
 
